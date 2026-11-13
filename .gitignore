@@ -1,0 +1,7 @@
+.perf/
+__pycache__/
+exports
+supporting_files
+
+*.stl
+main.json
